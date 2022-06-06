@@ -1,4 +1,4 @@
-# screenrotate-react-js
+# installation
 
 npm install
 
