@@ -2,6 +2,7 @@ React Screen Orientation Example
 ================================
 
 ```bash
-yarn
-yarn start
+npm install
+npm install react-screen-orientation --save
+npm start
 ```
